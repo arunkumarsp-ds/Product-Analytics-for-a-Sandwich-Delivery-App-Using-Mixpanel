@@ -1,7 +1,7 @@
 # Product Analytics for a Sandwich Delivery App  
 
 ## Overview  
-This project is an imaginary case study for a sandwich delivery app, **Randosando**, created as part of ![Product Analytics Micro-Certification](https://drive.google.com/file/d/11BVt49r36dm14PtrAmMVLbKhhiEdlVC9/view?usp=sharing) By Product School. The primary goal was to gain familiarity with the basics of product analytics, focusing on customer behavior, acquisition, and retention metrics.  
+This project is an imaginary case study for a sandwich delivery app, **Randosando**, created as part of [Product Analytics Micro-Certification](https://drive.google.com/file/d/11BVt49r36dm14PtrAmMVLbKhhiEdlVC9/view?usp=sharing) By Product School. The primary goal was to gain familiarity with the basics of product analytics, focusing on customer behavior, acquisition, and retention metrics.  
 
 ## Key Learnings  
 Through this case study, I explored:  
